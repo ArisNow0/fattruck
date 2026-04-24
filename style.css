@@ -648,6 +648,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .menu-legend h1 {
+        width: 80%;
+    }
 
     .secitem,
     .secmenu {
